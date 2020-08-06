@@ -1,0 +1,23 @@
+[I 09:32:40.469 NotebookApp] The port 8888 is already in use, trying another port.
+[I 09:32:40.470 NotebookApp] The port 8889 is already in use, trying another port.
+[I 09:32:40.471 NotebookApp] The port 8890 is already in use, trying another port.
+[I 09:32:40.472 NotebookApp] The port 8891 is already in use, trying another port.
+[I 09:32:40.472 NotebookApp] The port 8892 is already in use, trying another port.
+[I 09:32:40.485 NotebookApp] Serving notebooks from local directory: /Users/patrickcullinane/Documents/Code/data_structures/binary_trees
+[I 09:32:40.485 NotebookApp] The Jupyter Notebook is running at:
+[I 09:32:40.486 NotebookApp] http://localhost:8814/?token=47b5bd2eabcbf3a159f96da2e8014eda9b96768ae6f7f41c
+[I 09:32:40.486 NotebookApp]  or http://127.0.0.1:8814/?token=47b5bd2eabcbf3a159f96da2e8014eda9b96768ae6f7f41c
+[I 09:32:40.486 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:32:40.499 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/patrickcullinane/Library/Jupyter/runtime/nbserver-79182-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8814/?token=47b5bd2eabcbf3a159f96da2e8014eda9b96768ae6f7f41c
+     or http://127.0.0.1:8814/?token=47b5bd2eabcbf3a159f96da2e8014eda9b96768ae6f7f41c
+[I 09:37:50.193 NotebookApp] Creating new notebook in 
+[I 09:37:51.432 NotebookApp] Kernel started: e9fb86d8-0152-442b-9be5-41054860451b
+[I 09:39:51.383 NotebookApp] Saving file at /Untitled.ipynb
+[I 09:45:51.393 NotebookApp] Saving file at /Untitled.ipynb
+[I 09:47:51.396 NotebookApp] Saving file at /Untitled.ipynb
+[I 09:49:51.399 NotebookApp] Saving file at /Untitled.ipynb
